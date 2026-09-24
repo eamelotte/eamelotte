@@ -1,6 +1,6 @@
 
 ## Hi there 👋.  
-Here are some ideas to get you started:  
+
 - 🔭 I’m currently a HR and BAIS Student. 
 - 🌱 I’m currently learning Python. 
 - 👯 I’m looking to continue networking. 
